@@ -1,0 +1,8 @@
+MAIL_MAILER=smtp
+MAIL_SCHEME=null
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=rakibkhan444.spy@gmail.com
+MAIL_PASSWORD=with out space 
+MAIL_FROM_ADDRESS="rakibkhan444.spy@gmail.com"
+MAIL_FROM_NAME="${APP_NAME}"
